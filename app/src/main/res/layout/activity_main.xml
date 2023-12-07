@@ -18,7 +18,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:lottie_autoPlay="true"
         app:lottie_loop="true"
-        app:lottie_url="https://lottie.host/c610094d-4971-4777-a810-9895752cd4b0/xTJfxHsrFZ.json" />
+        app:lottie_url="https://lottie.host/7ad509f9-d768-4448-bafa-4e01bb8710dd/ZEYE6wvf5F.json" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_quotes"
